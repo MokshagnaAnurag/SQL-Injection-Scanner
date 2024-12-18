@@ -1,4 +1,3 @@
-# SQL-Injection-Scanner
 # 🛡️ SQL Injection Scanner
 
 ## 📖 Overview
