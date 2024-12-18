@@ -30,7 +30,7 @@ pip install requests beautifulsoup4
 ### 1️⃣ Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MokshagnaAnurag/SQL-Injection-Scanner.git
 cd sql-injection-scanner
 ```
 
